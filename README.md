@@ -4,6 +4,8 @@
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=blacker521" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacker521&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
+AI algorithm engineer,u can communicate with me by email
+
 <!--
 **blacker521/blacker521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
